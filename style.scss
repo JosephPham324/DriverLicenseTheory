@@ -1,0 +1,22 @@
+@use "sass:color";
+ul.navbar-nav {
+  li {
+    a {
+      color: white !important;
+    }
+    a:hover {
+      color: #337ab7 !important;
+    }
+  }
+  .dropdown-menu {
+    li {
+      a {
+        color: #337ab7 !important;
+      }
+    }
+  }
+}
+
+button.navbar-toggle {
+  color: white !important;
+}

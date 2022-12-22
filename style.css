@@ -1,0 +1,13 @@
+ul.navbar-nav li a {
+  color: white !important;
+}
+ul.navbar-nav li a:hover {
+  color: #337ab7 !important;
+}
+ul.navbar-nav .dropdown-menu li a {
+  color: #337ab7 !important;
+}
+
+button.navbar-toggle {
+  color: white !important;
+}/*# sourceMappingURL=style.css.map */
